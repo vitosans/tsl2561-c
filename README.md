@@ -19,4 +19,3 @@ Provided a test app that will print out:
 $ ./tsl2561
 Test. RC: 0(Success), broadband: 11066, ir: 2652, lux: 15433
 ```
-``
